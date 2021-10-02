@@ -1,4 +1,6 @@
+<a href="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="250">
+</a>
 
 <p align="left">My name is <b>Antônio Marcos</b> and I'm a Computer Science Undergraduate at <a href="https://www2.ufjf.br/ufjf/"><i>Universidade Federal de Juiz de Fora</i></a></p>
 
