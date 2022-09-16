@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<hr class="solid">
+---
 
 <p align="left">
   My name is <b>Antônio Marcos</b> and I'm a Computer Science Undergraduate at
@@ -18,10 +18,10 @@
 </a>
 
 <p align="left"><br /><b>Connect with me:</b></p>
-<a href="https://linkedin.com/in/antoniomarcossouza" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="antoniomarcossouza" height="30" width="40" />
+<a href="mailto:antoniomarcos.souza2002@gmail.com" target="_blank">
+  <img align="bottom"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+    alt="antoniomarcossouza" height="auto" width="40" />
 </a>
 <a href="https://linkedin.com/in/antoniomarcossouza" target="_blank">
   <img align="bottom"
