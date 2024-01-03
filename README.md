@@ -4,30 +4,20 @@
   </a>
 </div>
 
-## About Me:
+## Sobre mim 🐱‍💻
 <ul>
-  <li>
-    🎓 Computer Science Undergraduate at
-    <a href="https://www2.ufjf.br/ufjf/"><i>Universidade Federal de Juiz de Fora</i></a>
-  </li>
-  <li>📶 Currently studying Intelligent Reflecting Surfaces and OpenRAN</li>
-  <li>💻 Working with Node.js, Express and Sequelize</li>
+  <li>🗂️ Engenheiro de Dados</li>
+  <li>🎓 Graduando em ciência da computação na <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a></li>
 </ul>
 
-<a href="https://github.com/antoniomarcossouza">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=antoniomarcossouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en"
-    alt="antoniomarcossouza" />
-</a>
-
-## Contact me:
+## Contato
 <a href="mailto:antoniomarcos.souza2002@gmail.com" target="_blank">
   <img align="bottom"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
-    alt="antoniomarcossouza" height="auto" width="40" />
+    alt="antoniomarcossouza" height="auto" width="30" />
 </a>
 <a href="https://linkedin.com/in/antoniomarcossouza" target="_blank">
   <img align="bottom"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="antoniomarcossouza" height="auto" width="40" />
+    alt="antoniomarcossouza" height="auto" width="30" />
 </a>
