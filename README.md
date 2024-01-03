@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## 👤 Sobre mim 
+## 🧬 Sobre mim 
 <ul>
   <li>📊 Engenheiro de Dados</li>
   <li>🎓 Graduando em ciência da computação</li>
