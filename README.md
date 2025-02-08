@@ -1,4 +1,4 @@
-## 🐱‍💻 Oi! eu sou o Antônio
+## 👨🏻‍💻 Oi! eu sou o Antônio
 <div align="center">
   <a href="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
     <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400" />
